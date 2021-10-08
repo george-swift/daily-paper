@@ -1,0 +1,83 @@
+[
+  {
+    "id": 13,
+    "title": "Windows 11",
+    "date": "2021-10-05",
+    "category": "Technology",
+    "source": "https://www.bbc.com/news/technology-58795119",
+    "image": "v1633708330/_120816607_wondows-11-start-800x533-1_jzhc69.jpg",
+    "content": "Windows 11, the latest version of Microsoft's computer operating system, launches worldwide on Tuesday as a free upgrade for Windows 10 users."
+  },
+  {
+    "id": 2,
+    "title": "Quantum Physics",
+    "date": "2020-10-03",
+    "category": "Science",
+    "source": "https://www.sciencenews.org/article/quantum-computer-error-correction-multiple-qubits-detect-mistakes",
+    "image": "v1633708428/100121_ec_quantumcomputer_feat-680x383_jekcyo.jpg",
+    "content": "Scientists are one step closer to error-correcting quantum computers. Multiple quantum bits were combined into one ‘logical qubit’ to detect mistakes."
+  },
+  {
+    "id": 3,
+    "title": "Art in America",
+    "date": "2020-10-04",
+    "category": "Arts",
+    "source": "https://www.artnews.com/art-news/news/guadalupe-maravilla-wins-lise-wilhelmsen-award-1234605745/",
+    "image": "v1633708630/2021_Guadalupe-Maravilla_Photo-by-Steve-Benisty_5c_rnl9bt.jpg",
+    "content": "Guadalupe Maravilla wins $100,000 Lise Wilhelmsen Award, one of the world’s largest art prizes."
+  },
+  {
+    "id": 4,
+    "title": "Twitch",
+    "date": "2021-10-02",
+    "category": "Technology",
+    "source": "https://www.bbc.com/news/technology-58817658",
+    "image": "v1633708160/_120877375_gettyimages-1232608943_tjkwox.jpg",
+    "content": "Data Breach: Documents shared in online forums appear to show records of payments made to streamers."
+  },
+  {
+    "id": 11,
+    "title": "Health & Medicine",
+    "date": "2020-10-01",
+    "category": "Science",
+    "source": "https://www.sciencenews.org/article/coronavirus-covid-antiviral-pill-merck-molnupiravir-hospitalization-death",
+    "image": "v1633708592/100121_ti_pill-covid_feat-680x383_vkaiah.jpg",
+    "content": "A new antiviral pill cuts COVID-19 hospitalization and death rates. Merck says its drug, molnupiravir, stops viral replication and can be taken right after a COVID-19 diagnosis."
+  },
+  {
+    "id": 18,
+    "title": "Auctions",
+    "date": "2020-10-04",
+    "category": "Arts",
+    "source": "https://www.artnews.com/art-news/market/botticelli-man-of-sorrows-sothebys-sale-1234605835/",
+    "image": "v1633708876/092321-MFM-BOTTICELLI-014-v2-e1633524643106_dzvlw8.jpg",
+    "content": "Botticelli ‘Man of Sorrows’ expected to fetch $40M. Following the record-setting $92 million sale of a Sandro Botticelli painting last year, Sotheby’s is bringing another 15th-century portrait by the Renaissance artist to the auction block."
+  },
+  {
+    "id": 7,
+    "title": "Facebook",
+    "date": "2021-10-02",
+    "category": "Technology",
+    "source": "https://www.bbc.com/news/technology-58800670",
+    "image": "v1633708306/_120823896_cracked_c34q5b.jpg",
+    "content": "Facebook has apologised after it stopped working for users around the world for several hours."
+  },
+  {
+    "id": 8,
+    "title": "Chemistry",
+    "date": "2020-10-03",
+    "category": "Science",
+    "source": "https://www.sciencenews.org/article/chemistry-nobel-prize-2021-molecule-build-tool-list-macmillan",
+    "image": "v1633708520/100621_nobel_chemistry_feat-680x383_x513lb.jpg",
+    "content": "Chemists Benjamin List and David MacMillan have sparked a whole new field that’s aided drug discovery and made chemistry more environmentally friendly."
+  },
+  {
+    "id": 9,
+    "title": "Creative Economy",
+    "date": "2020-10-04",
+    "category": "Arts",
+    "source": "https://www.artnews.com/art-news/news/creative-economy-revitalization-act-1234605681/",
+    "image": "v1633708721/goldengate_hvbbxx.jpg",
+    "content": "If passed, Bipartisan bill offers $300 M. in grants for artists and public arts programming."
+  }
+]
