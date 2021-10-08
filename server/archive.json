@@ -1,0 +1,164 @@
+[
+  {
+    "id": 1,
+    "title": "Space",
+    "date": "2021-10-02",
+    "category": "Technology",
+    "source": "https://www.sciencenews.org/article/earth-venus-collision-planet-formation",
+    "image": "v1633707879/100421_lg_earth-venus_feat-680x383_o8ixhf.jpg",
+    "content": "The pronounced differences between Earth and Venus, in spite of their similar orbits and masses, has been one of the biggest puzzles in our solar system."
+  },
+  {
+    "id": 4,
+    "title": "Twitch",
+    "date": "2021-10-02",
+    "category": "Technology",
+    "source": "https://www.bbc.com/news/technology-58817658",
+    "image": "v1633708160/_120877375_gettyimages-1232608943_tjkwox.jpg",
+    "content": "Data Breach: Documents shared in online forums appear to show records of payments made to streamers."
+  },
+  {
+    "id": 7,
+    "title": "Facebook",
+    "date": "2021-10-02",
+    "category": "Technology",
+    "source": "https://www.bbc.com/news/technology-58800670",
+    "image": "v1633708306/_120823896_cracked_c34q5b.jpg",
+    "content": "Facebook has apologised after it stopped working for users around the world for several hours."
+  },
+  {
+    "id": 13,
+    "title": "Windows 11",
+    "date": "2021-10-05",
+    "category": "Technology",
+    "source": "https://www.bbc.com/news/technology-58795119",
+    "image": "v1633708330/_120816607_wondows-11-start-800x533-1_jzhc69.jpg",
+    "content": "Windows 11, the latest version of Microsoft's computer operating system, launches worldwide on Tuesday as a free upgrade for Windows 10 users."
+  },
+  {
+    "id": 15,
+    "title": "Amazon",
+    "date": "2021-10-06",
+    "category": "Technology",
+    "source": "https://www.bbc.com/news/technology-58817658",
+    "image": "v1633708401/_120819595_amazon_store_siu6rn.jpg",
+    "content": "Amazon is expanding its presence on the High Street by opening its first non-food store in the UK. It's called Amazon 4-star, because every item has been given more than four stars by customers."
+  },
+  {
+    "id": 6,
+    "title": "Google",
+    "date": "2021-10-02",
+    "category": "Technology",
+    "source": "https://www.bbc.com/news/technology-58749525",
+    "image": "v1633708416/_120748106_gettyimages-1087962196_klqxzb.jpg",
+    "content": "The top entry on Microsoft's Bing search engine is for its rival Google. The claim was made in court, as Google made its case to appeal against a €4.3bn ($5bn) fine from the European Union for abusing its market power."
+  },
+  {
+    "id": 2,
+    "title": "Quantum Physics",
+    "date": "2020-10-03",
+    "category": "Science",
+    "source": "https://www.sciencenews.org/article/quantum-computer-error-correction-multiple-qubits-detect-mistakes",
+    "image": "v1633708428/100121_ec_quantumcomputer_feat-680x383_jekcyo.jpg",
+    "content": "Scientists are one step closer to error-correcting quantum computers. Multiple quantum bits were combined into one ‘logical qubit’ to detect mistakes."
+  },
+  {
+    "id": 5,
+    "title": "Health & Medicine",
+    "date": "2020-10-01",
+    "category": "Science",
+    "source": "https://www.sciencenews.org/article/nobel-prize-2021-physiology-medicine-julius-patapoutian-temperature-touch",
+    "image": "v1633708455/100421_nobel_physi-med_feat-680x383_dhe8lu.jpg",
+    "content": "Discovering how we sense temperature and touch wins the 2021 medicine Nobel Prize."
+  },
+  {
+    "id": 8,
+    "title": "Chemistry",
+    "date": "2020-10-03",
+    "category": "Science",
+    "source": "https://www.sciencenews.org/article/chemistry-nobel-prize-2021-molecule-build-tool-list-macmillan",
+    "image": "v1633708520/100621_nobel_chemistry_feat-680x383_x513lb.jpg",
+    "content": "Chemists Benjamin List and David MacMillan have sparked a whole new field that’s aided drug discovery and made chemistry more environmentally friendly."
+  },
+  {
+    "id": 10,
+    "title": "Earth",
+    "date": "2020-10-03",
+    "category": "Science",
+    "source": "https://www.sciencenews.org/article/earth-magnetic-field-reversal-mass-extinctions-environment-crisis",
+    "image": "v1633708533/021821_cg_pole-flip_feat_wsyikg.jpg",
+    "content": "A magnetic field reversal 42,000 years ago may have contributed to mass extinctions. The weakening of Earth's magnetic field correlates with a cascade of environmental crises."
+  },
+  {
+    "id": 11,
+    "title": "Health & Medicine",
+    "date": "2020-10-01",
+    "category": "Science",
+    "source": "https://www.sciencenews.org/article/coronavirus-covid-antiviral-pill-merck-molnupiravir-hospitalization-death",
+    "image": "v1633708592/100121_ti_pill-covid_feat-680x383_vkaiah.jpg",
+    "content": "A new antiviral pill cuts COVID-19 hospitalization and death rates. Merck says its drug, molnupiravir, stops viral replication and can be taken right after a COVID-19 diagnosis."
+  },
+  {
+    "id": 12,
+    "title": "Neuroscience",
+    "date": "2020-10-03",
+    "category": "Science",
+    "source": "https://www.sciencenews.org/article/traumatic-brain-injury-tbi-protein-blood-test-predict-recovery",
+    "image": "v1633708604/092921_jr_tmi_feat-680x383_n3mmyj.jpg",
+    "content": "High levels of a key blood protein point to brain shrinkage and damage to message-sending axons, providing a biomarker for TBI severity and prognosis."
+  },
+  {
+    "id": 3,
+    "title": "Art in America",
+    "date": "2020-10-04",
+    "category": "Arts",
+    "source": "https://www.artnews.com/art-news/news/guadalupe-maravilla-wins-lise-wilhelmsen-award-1234605745/",
+    "image": "v1633708630/2021_Guadalupe-Maravilla_Photo-by-Steve-Benisty_5c_rnl9bt.jpg",
+    "content": "Guadalupe Maravilla wins $100,000 Lise Wilhelmsen Award, one of the world’s largest art prizes."
+  },
+  {
+    "id": 14,
+    "title": "Market",
+    "date": "2020-10-04",
+    "category": "Arts",
+    "source": "https://www.artnews.com/art-news/market/online-art-investment-platform-masterworks-gets-boost-from-investors-1234605673/",
+    "image": "v1633708701/Screen-Shot-2021-10-05-at-12.02.44-PM-e1633451533330_arz0sf.png",
+    "content": "Online art investment platform Masterworks gets boost from investors and $1 B. valuation."
+  },
+  {
+    "id": 9,
+    "title": "Creative Economy",
+    "date": "2020-10-04",
+    "category": "Arts",
+    "source": "https://www.artnews.com/art-news/news/creative-economy-revitalization-act-1234605681/",
+    "image": "v1633708721/goldengate_hvbbxx.jpg",
+    "content": "If passed, Bipartisan bill offers $300 M. in grants for artists and public arts programming."
+  },
+  {
+    "id": 16,
+    "title": "Market",
+    "date": "2020-10-04",
+    "category": "Arts",
+    "source": "https://www.artnews.com/art-news/market/muhammad-ali-bonhams-sale-1234605878/",
+    "image": "v1633708803/Screen-Shot-2021-10-06-at-1.08.26-PM_a4jjc0.png",
+    "content": "Muhammad Ali’s little-known art becomes a hit on the auction block. A work by the athlete sold for a record-setting $425,000."
+  },
+  {
+    "id": 17,
+    "title": "Artists",
+    "date": "2020-10-04",
+    "category": "Arts",
+    "source": "https://www.artnews.com/art-news/artists/victoria-dugger-new-work-2021-1234605936/",
+    "image": "v1633708838/Victoria-Dugger-Installation-View-7-copy_nh307k.jpg",
+    "content": "How I Made This: Victoria Dugger’s alternative cosmologies. According to artist Victoria Dugger, making art feels a bit like chasing the proverbial unicorn."
+  },
+  {
+    "id": 18,
+    "title": "Auctions",
+    "date": "2020-10-04",
+    "category": "Arts",
+    "source": "https://www.artnews.com/art-news/market/botticelli-man-of-sorrows-sothebys-sale-1234605835/",
+    "image": "v1633708876/092321-MFM-BOTTICELLI-014-v2-e1633524643106_dzvlw8.jpg",
+    "content": "Botticelli ‘Man of Sorrows’ expected to fetch $40M. Following the record-setting $92 million sale of a Sandro Botticelli painting last year, Sotheby’s is bringing another 15th-century portrait by the Renaissance artist to the auction block."
+  }
+]

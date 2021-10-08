@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "author": "John Doe",
+    "content": "I got really frustrated when all three apps went down.",
+    "time": "1 day ago",
+    "post": 7
+  },
+  {
+    "id": 2,
+    "author": "Jane Cook",
+    "content": "Expecting $40 million? And to think it could go for more. Wow!",
+    "time": "1 hour ago",
+    "post": 18
+  }
+]
