@@ -2,10 +2,10 @@
 
 ![](./assets/home.png)
 ## Objectives
-- Pre-rendering in web appplications
+- Pre-rendering in web applications
 - Static site generation and Server-side rendering with Next.js
 - Image optimization with lazy loading
-- Client side state management with Redux
+- Client-side state management with Redux
 - CSS-in-JavaScript
 ## Features
 > Daily Paper is a model of a news site. It contains news articles in three broad categories: Science- from [Science News](https://www.sciencenews.org/), Technology- from [BBC](https://www.bbc.com/news/technology), and Arts- from [Arts News](https://www.artnews.com/). The Home page displays a compact version of news from all three categories. Below each category are links to more news articles in the section.
