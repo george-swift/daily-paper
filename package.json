@@ -1,0 +1,41 @@
+{
+  "name": "daily-paper",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:george-swift/daily-paper.git",
+  "author": "George <71434803+george-swift@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react-redux": "^7.1.19",
+    "@types/styled-components": "^5.1.14",
+    "babel-preset-next": "^1.4.0",
+    "body-parser": "^1.19.0",
+    "concurrently": "^6.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "next": "^11.1.2",
+    "next-redux-wrapper": "^7.0.5",
+    "node-fetch": "^3.0.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-redux": "^7.2.5",
+    "sharp": "^0.29.1",
+    "styled-components": "^5.3.1",
+    "ts-node": "^10.2.1"
+  },
+  "scripts": {
+    "serve": "ts-node -O '{\"module\": \"commonjs\"}' ./server/index.ts",
+    "dev": "concurrently --kill-others \"yarn serve\" \"next\"",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.1",
+    "@types/cors": "^2.8.12",
+    "@types/node": "^16.10.3",
+    "@types/react": "^17.0.27",
+    "typescript": "^4.4.3"
+  }
+}
