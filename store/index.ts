@@ -12,4 +12,4 @@ const rootReducer = combineReducers({ post, comments })
 
 const makeStore = (context: Context) => createStore(rootReducer)
 
-export const store = createWrapper<Store<State>>(makeStore, { debug: true})
+export const store = createWrapper<Store<State>>(makeStore)

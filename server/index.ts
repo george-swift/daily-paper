@@ -55,6 +55,4 @@ app.get('/comments/:post', (request, response) => {
   return response.json(commentsForPost)
 })
 
-app.listen(port, () => {
-  console.log(`DB is running on http://localhost:${port}!`)
-})
+app.listen(port)
